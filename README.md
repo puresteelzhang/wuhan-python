@@ -19,3 +19,8 @@ pip install pyecharts
 ```
 
 在 Jupyter 中上传本项目中的 `.ipynb` 笔记本文件和 `.json` 数据文件，注意上传到同一目录，打开笔记本文件运行即可。
+
+# 参考链接
+
+- [数据报告-用户研究岗位分析报告 - 简书](https://www.jianshu.com/p/13ba5d7629ea)
+- [[python,pandas]数据分析求职指南——猎聘网数据分析职位解析](https://zhuanlan.zhihu.com/p/30656427)
